@@ -1,9 +1,12 @@
-# Gebruik van de docs map
-Plaats hier je documenten. Denk daarbij aan:
-- Ontwerp documenten
-- De opdrachtbeschrijving
-- Naslagwerk
-- Afspraken met het team
-- Overige documentatie
+# Rally CRUD Project
 
-Op die manier houdt je de documentatie op 1 plek en kan je het makkelijk terug vinden.
+## Over het project
+Dit project is een CRUD-applicatie (Create, Read, Update, Delete) voor het beheren van rallygegevens. Met deze applicatie kunnen gebruikers rally's toevoegen, bekijken, aanpassen en verwijderen via een overzichtelijke interface.
+
+## Functionaliteiten
+
+- Rally evenementen en auto's toevoegen
+- Overzicht van alle rally's bekijken
+- Bestaande rally's bewerken
+- Rally's verwijderen
+- Gegevens opslaan in een database
